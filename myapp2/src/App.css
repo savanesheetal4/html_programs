@@ -1,0 +1,19 @@
+ul {
+
+    margin: 10px;
+    border: 2px solid white;
+    text-align: right;
+    font-size: larger;
+    background-color: rgb(133, 43, 133);
+}
+
+li{
+    display: inline;
+    word-spacing: 10px;
+    margin-right: 10px;
+}
+
+h1{
+    color:white;
+    text-align:justify;
+}
